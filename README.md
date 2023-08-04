@@ -1,1 +1,1 @@
-# gpt_in_practice
+# GPT in Practice
